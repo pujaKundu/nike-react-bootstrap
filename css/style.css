@@ -5,15 +5,10 @@
 
 /* utilities */
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body {
     font-family: "Roboto", sans-serif;
     width: 100%;
+    overflow-x: hidden;
 }
 
 
