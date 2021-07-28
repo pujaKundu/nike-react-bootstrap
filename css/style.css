@@ -1,0 +1,36 @@
+/* font */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+/* utilities */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+}
+
+
+/* hero section styles */
+
+header {
+    background-color: #fffcfa;
+}
+
+.title {
+    font-family: "Bebas Neue", cursive;
+}
+
+.hero-text-color {
+    color: #fa804c;
+}
+
+.hero-text-color-2 {
+    color: #140f40;
+}
